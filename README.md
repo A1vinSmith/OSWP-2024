@@ -14,3 +14,6 @@ Notes and cheatsheets for the OffSec Wireless Professional (OSWP) certification
 
 [brcyrr's Cheatsheet](https://github.com/brcyrr/OSWP)
 - Exam strategy and simple attack commands
+
+[Mind Map](https://github.com/A1vinSmith/MindMap/tree/main/WiFi)
+Exam strategy and simple attack commands
